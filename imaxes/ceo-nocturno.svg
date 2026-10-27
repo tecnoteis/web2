@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" role="img" aria-labelledby="title desc">
+  <title id="title">Un ceo nocturno estrelado</title>
+  <desc id="desc">Unha lúa crecente ilumina dous cumios escuros baixo un ceo cheo de estrelas.</desc>
+  <rect width="960" height="560" fill="#142c3a"/>
+  <circle cx="770" cy="132" r="63" fill="#f2d89b"/>
+  <circle cx="796" cy="108" r="57" fill="#142c3a"/>
+  <g fill="#f8eed1">
+    <circle cx="116" cy="104" r="3"/><circle cx="214" cy="184" r="2"/>
+    <circle cx="321" cy="91" r="3"/><circle cx="426" cy="156" r="2"/>
+    <circle cx="531" cy="79" r="2.5"/><circle cx="630" cy="213" r="3"/>
+    <circle cx="872" cy="245" r="2"/><circle cx="168" cy="284" r="2.5"/>
+    <circle cx="365" cy="257" r="2"/><circle cx="478" cy="321" r="3"/>
+  </g>
+  <path d="M0 420 190 250l130 130 155-190 180 230 123-143 182 155v128H0Z" fill="#234453"/>
+  <path d="m0 474 214-164 132 124 186-148 168 170 122-116 138 112v108H0Z" fill="#10232d"/>
+  <path d="M0 502h960v58H0Z" fill="#bd4b31" opacity=".82"/>
+</svg>
